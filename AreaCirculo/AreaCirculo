@@ -2,4 +2,4 @@ let raio = 8
 let quadrado = raio * raio
 let resultado = 3.14 * quadrado
 
-console.log ("O danilo gosta de bolo de " + resultado + "cm") 
+console.log("A área do círculo é " + resultado + " cm²")
