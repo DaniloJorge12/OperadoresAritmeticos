@@ -1,0 +1,13 @@
+let num1 = -6
+let num2 = 15
+
+if (num1 >= 0){
+    console.log ('Número 1 é positivo')
+}else if (num1 < 0 ){
+    console.log ('Número 1 é negativo')
+}
+if (num2 >= 0){
+    console.log ('Número 2 é positivo')
+}else if (num2 < 0){
+    console.log ('Número 2 é negativo')
+}
